@@ -1,8 +1,12 @@
-# React + Vite
+# Contact_Us_Page
+I have created this static landing page using react and tailwind css.
+### This project is made using React and Tailwind CSS
+This project is a static landing page of for a contact us section.
+This is a static website.
+Here is a preview- 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-10-18 212651](https://github.com/user-attachments/assets/0970c11d-bd00-4b6b-85df-54b131c259bc)
 
-Currently, two official plugins are available:
+![Screenshot 2024-10-18 212737](https://github.com/user-attachments/assets/e003b7e5-49a1-4254-9655-7b6b5a5ed401)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
